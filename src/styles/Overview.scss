@@ -1,0 +1,12 @@
+@import "./breakpoints";
+@import "./fonts";
+@import "./theme.scss";
+
+.overview_section {
+  display: flex;
+  width: 76rem;
+  align-items: flex-start;
+  align-content: flex-start;
+  gap: 1.5rem;
+  flex-wrap: wrap;
+}
